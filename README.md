@@ -42,10 +42,3 @@ Aprendi lições valiosas sobre a importância do estudo contínuo e do desenvol
 </a>
 
 [create your own card](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card)
-
-<!-- Resumo sobre mim -->
-- 🔭 I’m currently working on a Pharmacy
-- 🐍 I’m currently learning Python 3
-- 📫 My e-mail: gui.morushub@gmail.com
-- 💬 Ask me about my favorite games/animes
-- 😅 Fun fact: I don't like coffee
