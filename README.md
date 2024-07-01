@@ -8,7 +8,7 @@ Além do trabalho, tenho diversos interesses pessoais que me mantêm ocupado e m
 
 Ao longo da minha jornada, conquistei importantes marcos, como concluir o curso técnico em Informática, que fortaleceu minha paixão pela área. Enfrentei desafios pessoais significativos, como superar a depressão, o que me ensinou a valorizar minha saúde mental e a perseverar na construção de um futuro sólido.
 
-Aprendi lições valiosas sobre a importância do estudo contínuo e do desenvolvimento das habilidades sociais. Minhas motivações incluem me **tornar um programador**, alcançar independência financeira e **aproveitar ao máximo tudo que a vida tem a oferecer** com minha profissão 😊
+Minhas motivações incluem me **tornar um programador**, alcançar independência financeira e **aproveitar ao máximo tudo que a vida tem a oferecer** com minha profissão 😊
 
 <!-- Blocos de contatos -->
 <div style="display: inline_block">
