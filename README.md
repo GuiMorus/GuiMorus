@@ -30,15 +30,3 @@ Minhas motivações incluem me **tornar um programador**, alcançar independênc
   <img alt="CSS3 Flag" align="center" height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
 </div>
 <br>
-
-<!-- Bloco de Status -->
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
-  <img height=135 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiMorus&show_icons=true&hide=prs&custom_title=Meus Status | My Stats&theme=buefy#gh-light-mode-only" />
-</a>
-
-<!-- Bloco de linguagens mais usadas -->
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
-  <img height=135 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMorus&layout=compact&theme=buefy#gh-light-mode-only" />
-</a>
-
-[create your own card](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card)
