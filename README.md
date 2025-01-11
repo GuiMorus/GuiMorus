@@ -1,5 +1,5 @@
 # Guilherme Moreira
-<a href="https://www.linkedin.com/in/gui-msilva/" target="_blank">![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gui.morushub@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/slayerkitsune)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guimorus/)
