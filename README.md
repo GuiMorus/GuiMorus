@@ -2,9 +2,9 @@
 
 Olá a todos,
 
-Me chamo Guilherme Moreira, tenho 25 anos e sou apaixonado por tecnologia e aprendizado contínuo. Sou formado como **Técnico em Informática** e atualmente trabalho no setor farmacêutico, onde valorizo o cuidado com as pessoas e o atendimento ao público.
+Me chamo Guilherme Moreira, tenho 26 anos e sou apaixonado por tecnologia, livros e o Machine Learning(fissurado em AI). Sou formado como **Técnico em Informática** pelo Senac SP e atualmente curso Análise e Desenvolvimento de Sistemas(ADS) na Unifeob.
 
-Além do trabalho, tenho diversos interesses pessoais que me mantêm ocupado e motivado. Adoro passar meu tempo livre lendo livros diversos, sempre buscando aprender algo novo, seja sobre tecnologia, história ou ciência. Também sou entusiasta de jogos, uma forma relaxante de desafiar minha mente e me divertir.
+Tenho diversos interesses pessoais que me mantêm ocupado e motivado. Adoro passar meu tempo livre lendo livros, sempre buscando aprender algo novo, seja sobre tecnologia, história ou ciência. A cara não nega eu sou Gamer, pra mim é uma forma relaxante de desafiar minha mente enquanto me diverto.
 
 Ao longo da minha jornada, conquistei importantes marcos, como concluir o curso técnico em Informática, que fortaleceu minha paixão pela área. Enfrentei desafios pessoais significativos, como superar a depressão, o que me ensinou a valorizar minha saúde mental e a perseverar na construção de um futuro sólido.
 
