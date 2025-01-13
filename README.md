@@ -34,11 +34,11 @@ Hi everyone!
 
 <!-- Icones das linguagens -->
 <div style="display: inline_block">
-  <img alt="Python Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-  <img alt="HTML5 Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-  <img alt="CSS3 Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-  <img alt="R Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
-  <img alt="Markdown Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
+  <img alt="Python Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img alt="HTML5 Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+  <img alt="CSS3 Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+  <img alt="R Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
+  <img alt="Markdown Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
 </div>
 <br>
 
@@ -46,10 +46,10 @@ Hi everyone!
 
 <!-- Icones das ferramentas -->
 <div style="display: inline_block">
-  <img alt="Pycharm Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
-  <img alt="VS Code Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
-  <img alt="Photoshop Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img alt="Notion Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
-  <img alt="Git Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
-  <img alt="Anaconda Flag" align="center" width=8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg">
+  <img alt="Pycharm Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
+  <img alt="VS Code Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
+  <img alt="Photoshop Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+  <img alt="Notion Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+  <img alt="Git Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
+  <img alt="Anaconda Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg">
 </div>
