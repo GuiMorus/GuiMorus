@@ -8,27 +8,33 @@
 
 Olá a todooos!
 
-> Sou um programador Python de 26 anos, desenvolvedor de softwares e apaixonado por livros. Atualmente, estou cursando tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)** na Unifeob e sou formado como **Técnico em Informática** pelo Senac São Paulo.
+> Sou um programador Python de 26 anos, desenvolvedor de softwares e apaixonado por livros. Atualmente, estou cursando tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)** na Unifeob e sou formado como **Técnico em Informática** pelo Senac.
 
-> Minha meta para 2025 é aprofundar meus conhecimentos em **Machine Learning (ML)** e ser uma engrenagem significativa para as áreas de **inteligência artificial (AI)** e tecnologia. Para alcançar esse objetivo, iniciei um bootcamp, onde estou estudando redes neurais artificiais (RNA) e aprendendo a **linguagem R** para análise de dados e estatísticas.
+> Minha trajetória na área tech começou durante meu curso técnico em TI, onde aprendi a realizar **manutenções de hardware, desenvolvendo aplicativos e sites com HTML5 e CSS3**, e explorando os princípios de design gráfico, **UX e UI**.
 
-> Minha trajetória na área tech começou durante meu curso técnico em TI, onde aprendi a **realizar manutenções de hardware** e desenvolvi **aplicativos e sites** utilizando HTML5 e CSS3. Também adquiri experiência com implementações de **design gráfico**, sempre atento aos **princípios de UX e UI.**
+> Desde então, venho expandindo meus conhecimentos na faculdade, estou aprendendo **Linguagem C** e me dedicando ao universo **IoT utilizando Arduino**, além de aprender **SQL** com **MySQL**.
 
-> Como profissional, meus objetivos incluem me tornar **especialista em Python**, desenvolver habilidades em **DevOps, AWS** e aperfeiçoar meu **inglês avançado.**
+> Com a meta de 2025 de aprofundar meus conhecimentos em **Machine Learning (ML)** e contribuir de forma significativa para as áreas de **inteligência artificial (AI)** e tecnologia, iniciei um bootcamp focado em redes neurais artificiais (RNA).
 
-> **Gostou do meu perfil? Atualmente procuro estágio remoto ou híbrido, entre em contato!** 😊
+> Para montar Interfaces Visuais, comecei a desenvolver habilidades utilizando a **linguagem Dart** e o **framework Flutter**, assim consigo criar aplicativos Android, para web e Windowns, enquanto utilizo Python para gerenciar todo o backend.
+
+> Como profissional, meu objetivo é me tornar especialista em Python, desenvolver competências em DevOps, AWS e aprimorar meu inglês, enquanto também me preparo para obter certificações importantes como a **AWS e a Cisco**.
+
+> **Gostou do meu perfil? Atualmente, procuro estágio remoto ou híbrido. Entre em contato!** 😊
 
 ## 💬 About Me
 
 Hi everyone!
 
-> I am a 🇧🇷Brazilian **Python programmer**, software developer, and book enthusiast. I am currently pursuing a **degree in Analysis and Systems Development (ADS)** at Unifeob and hold a **Technical degree in Computer Science** from Senac São Paulo.
+> I am a 🇧🇷Brazilian Python programmer, software developer, and book enthusiast. I am currently pursuing a **degree in Analysis and Systems Development (ADS)** at Unifeob and hold a **Technical degree in Computer Science** from Senac São Paulo.
 
-> My goal for 2025 is to deepen my knowledge in **Machine Learning (ML)** and make meaningful contributions to the fields of **Artificial Intelligence (AI)** and technology. To achieve this, I have joined a bootcamp where I am learning about artificial neural networks (ANN) and the **R programming language** for data analysis and statistics.
+> My journey in technology began during my technical studies, where I learned how to perform **hardware maintenance** and developed applications and websites using **HTML and CSS**. I also gained experience in graphic design implementations, always focusing on **UX and UI principles**. In college, I am learning **C lang**, while I also explore **IoT with Arduino** and learn **SQL with MySQL**.
 
-> My journey in technology began during my Technical degree, where I learned how to perform hardware maintenance and **developed applications and websites** using HTML and CSS. I also gained experience in **graphic design** implementations, always focusing on **UX and UI principles**.
+> My goal for 2025 is to deepen my knowledge in **Machine Learning (ML)** and make meaningful contributions to the fields of **Artificial Intelligence (AI)** and technology. To achieve this, I have joined a bootcamp where I am learning about artificial neural networks (ANN). In addition, I have started developing applications using **Dart and Flutter**, further expanding my technical skills.
 
-> As a professional, my aspirations include becoming an expert in Python, acquiring DevOps and AWS skills, and improving my advanced English proficiency. If you want to contact me, **I am open to working remotely.** 🌎
+> As a professional, my aspirations include becoming an expert in Python, acquiring DevOps and AWS skills, and improving my advanced English proficiency. I am also preparing to achieve **AWS and Cisco certifications**.
+
+> **If you want to contact me, I am open to working remotely.** 🌎
 
 ## 💻 Linguagens de Programação
 
@@ -37,8 +43,11 @@ Hi everyone!
   <img alt="Python Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img alt="HTML5 Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
   <img alt="CSS3 Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-  <img alt="R Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
+  <img alt="Flutter Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img alt="Dart Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg">
   <img alt="Markdown Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
+  <img alt="R Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
+  <img alt="C Lang Flag" align="center" width=12% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
 <br>
 
