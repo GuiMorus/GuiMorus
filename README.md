@@ -4,6 +4,8 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/slayerkitsune)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guimorus/)
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind)](https://github.com/GuiMorus/)
+
 ## 🖐 Sobre
 
 Olá a todooos!
