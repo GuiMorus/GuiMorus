@@ -2,10 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gui-msilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge\&logo=Gmail\&logoColor=white)](mailto:gui.morushub@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/slayerkitsune)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/guimorus/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=webtrees\&logoColor=white)](https://guimorus.github.io/site/)
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css,tailwind,webpack,git,linux)](https://github.com/GuiMorus/)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css,tailwind,webpack,babel,git,linux)](https://github.com/GuiMorus/)
 
 ## 🖐 Sobre
 
