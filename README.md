@@ -25,8 +25,6 @@ Olá a todooos!
 
 > **Atualmente, busco minha primeira oportunidade profissional na área de TI/Desenvolvimento**, onde possa aplicar meus conhecimentos, continuar aprendendo e contribuir com a equipe.
 
----
-
 ## 💬 About Me
 
 Hi everyone!
